@@ -1,4 +1,4 @@
-## Hey there<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Tanmay
+## Hey there<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Vishal
 ![version :26.12.2021](https://img.shields.io/badge/version-14.08.2021-informational) &nbsp;
 ![profile count](https://komarev.com/ghpvc/?username=rishalvoy&color=red)&nbsp;
 [![GitHub kanmaytacker](https://img.shields.io/github/followers/rishalvoy?label=follow&style=social)](https://github.com/rishalvoy)&nbsp;
